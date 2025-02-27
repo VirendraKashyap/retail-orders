@@ -26,5 +26,3 @@ Using Matplotlib & Seaborn, I visualized patterns to answer critical business qu
 This project reinforced my passion for data analytics and how it can drive business decisions. 🚀
 
 Would love to hear from fellow data enthusiasts! How do you uncover insights from raw data? Let’s connect! 🔗
-
-#DataAnalytics #SQL #PostgreSQL #Python #EDA #RetailAnalysis #DataStorytelling #BusinessInsights
